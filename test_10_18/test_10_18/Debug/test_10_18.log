@@ -1,0 +1,63 @@
+﻿生成启动时间为 2021/10/19 12:19:51。
+     1>项目“C:\Users\dell\Desktop\2021 test\test_10_18\test_10_18\test_10_18.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\test_10_18.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt game.c san_zi_qi_game.c
+         san_zi_qi_game.c
+         game.c
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(15): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(15): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(15): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(15): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(16): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(16): warning C4033: “test”必须返回值
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(17): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(17): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(17): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(17): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(18): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(18): warning C4033: “test”必须返回值
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(21): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(25): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(25): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(25): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(25): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(26): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(26): warning C4033: “test”必须返回值
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(27): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(27): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(27): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(27): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(28): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(28): warning C4033: “test”必须返回值
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(39): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(45): error C2065: “h”: 未声明的标识符
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(45): error C2065: “l”: 未声明的标识符
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(49): error C2198: “displayboard”: 用于调用的参数太少
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(50): error C2065: “h”: 未声明的标识符
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(50): error C2065: “l”: 未声明的标识符
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(51): error C2198: “test”: 用于调用的参数太少
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(67): error C2065: “h”: 未声明的标识符
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(67): error C2065: “l”: 未声明的标识符
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(68): error C2198: “test”: 用于调用的参数太少
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(87): warning C4029: 声明的形参表不同于定义
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(88): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(88): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(88): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(90): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(90): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(90): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(92): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(92): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(92): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(102): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(112): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(124): error C2109: 下标要求数组或指针类型
+     1>c:\users\dell\desktop\2021 test\test_10_18\test_10_18\game.c(126): error C2109: 下标要求数组或指针类型
+         正在生成代码...
+     1>已完成生成项目“C:\Users\dell\Desktop\2021 test\test_10_18\test_10_18\test_10_18.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.37
