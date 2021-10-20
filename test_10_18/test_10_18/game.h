@@ -9,3 +9,4 @@ void playermove(char board[][3]);
 void computermove(char board[][3]);
 char test(char board[][3]);
 void displayboard(char board[][3]);
+int IsFull(char board[][3]);

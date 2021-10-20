@@ -18,6 +18,9 @@
     <ClCompile Include="san_zi_qi_game.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="asd.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="game.h">

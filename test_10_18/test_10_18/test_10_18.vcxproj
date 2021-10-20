@@ -75,6 +75,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="asd.c" />
     <ClCompile Include="san_zi_qi_game.c" />
   </ItemGroup>
   <ItemGroup>
