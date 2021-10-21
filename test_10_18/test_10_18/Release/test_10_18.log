@@ -1,7 +1,7 @@
-﻿生成启动时间为 2021/10/20 12:54:39。
+﻿生成启动时间为 2021/10/20 16:20:55。
      1>项目“C:\Users\dell\Desktop\2021 test\test\test_10_18\test_10_18\test_10_18.vcxproj”在节点 2 上(build 个目标)。
      1>InitializeBuildStatus:
-         正在对“Release\test_10_18.unsuccessfulbuild”执行 Touch 任务。
+         正在创建“Release\test_10_18.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
        ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt asd.c
          asd.c
@@ -21,4 +21,4 @@
 
 生成成功。
 
-已用时间 00:00:00.62
+已用时间 00:00:00.45

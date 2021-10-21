@@ -53,8 +53,8 @@ void game(char board[3][3])
 	while(1)
 	{
 		char ret = 0;
-		displayboard(board);
 		playermove(board);
+		displayboard(board);
 		ret = test(board);
 		if(ret == 'p')
 		{
@@ -75,6 +75,7 @@ void game(char board[3][3])
 			break;
 		}
 		computermove(board);
+		displayboard(board);
 		ret = test(board);
 		if(ret == 'p')
 		{
@@ -131,14 +132,16 @@ void computermove(char board[3][3])
 {
 	int a;
 	int b;
-	do
+	while(1)
 	{
 		a = rand()%3;
 		b = rand()%3;
 		if(board[a][b] == ' ')
+		{
 			board[a][b] = '#';
+			break;
+		}
 	}
-	while(board[a][b] != '#');
 }
 int IsFull(char board[][3])
 {
